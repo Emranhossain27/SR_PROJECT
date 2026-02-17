@@ -64,3 +64,8 @@ print("Exported:", file_name)
 -deleteProject \
 -overwrite
 
+
+
+
+# git push problem solver
+git pull origin main --rebase
