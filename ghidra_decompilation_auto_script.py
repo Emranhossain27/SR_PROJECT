@@ -20,19 +20,25 @@ listing = currentProgram.getListing()
 functions = listing.getFunctions(True)
 
 output_dir = "/home/kali/sr_project/decompiled"
-os.makedirs(output_dir, exist_ok=True)
+
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
 
 file_name = currentProgram.getName() + ".c"
 file_path = os.path.join(output_dir, file_name)
 
-with open(file_path, "w") as f:
-    for func in functions:
-        res = ifc.decompileFunction(func, 60, monitor)
-        if res.decompileCompleted():
-            f.write(res.getDecompiledFunction().getC())
-            f.write("\n\n")
+f = open(file_path, "w")
+
+for func in functions:
+    res = ifc.decompileFunction(func, 60, monitor)
+    if res.decompileCompleted():
+        f.write(res.getDecompiledFunction().getC())
+        f.write("\n\n")
+
+f.close()
 
 print("Exported:", file_name)
+
 
 
 
@@ -50,8 +56,11 @@ print("Exported:", file_name)
 
 ##Now run:
 
-##/opt/ghidra/support/analyzeHeadless \
-##~/sr_project/ghidra_projects HumanEval_Project \
-##-import . \
-##-postScript ~/export_decompile.py \
-##-overwrite
+/opt/ghidra/support/analyzeHeadless \
+~/sr_project/ghidra_projects HumanEval_Project \
+-import ~/sr_project/SR_PROJECT/src/humaneval_cpp/bin \
+-postScript export_decompile.py \
+-scriptPath /home/kali \
+-deleteProject \
+-overwrite
+
