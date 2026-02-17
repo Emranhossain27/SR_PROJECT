@@ -18,3 +18,25 @@ with open("humaneval.jsonl", "r") as f:
             count += 1
 
 print(f"Extraction complete. {count} C++ files created.")
+
+
+
+
+## ✅ Step 1 — Make Sure Python & Pip Work
+
+##Check:
+
+##python3 --version
+##pip3 --version
+
+
+##✅ Step 2 — Install the Dataset Library
+##pip3 install datasets
+
+
+
+##✅ Step 3 — Create Download Script
+
+##nano download_cpp.py
+
+nano download_cpp.py
