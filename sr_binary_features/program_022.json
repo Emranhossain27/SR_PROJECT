@@ -1,0 +1,611 @@
+{
+  "Program": "program_022", 
+  "Functions": [
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [], 
+          "Total Parameters": 0
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 12
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 2
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00101020", 
+        "Name": "FUN_00101020"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "typedef vector undefined"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 4
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 12, 
+          "Total Edges": 24
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 336
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 12
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 84
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_54", 
+            "Stack Offset": -84, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_50", 
+            "Stack Offset": -80, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_48", 
+            "Stack Offset": -72, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_40", 
+            "Stack Offset": -64, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_38", 
+            "Stack Offset": -56, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_30", 
+            "Stack Offset": -48, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_24", 
+            "Stack Offset": -36, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_1c", 
+            "Stack Offset": -28, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 92, 
+        "Local Variable Count": 12
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00101140", 
+        "Name": "rescale_to_unit"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [], 
+          "Total Parameters": 0
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 15
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 6
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_c", 
+            "Stack Offset": -12, 
+            "Size (bytes)": 4
+          }
+        ], 
+        "Stack Frame Size (bytes)": 20, 
+        "Local Variable Count": 1
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00101290", 
+        "Name": "main"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "vector<float,std::allocator<float>> *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 1
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 2, 
+          "Total Edges": 2
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 43
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 2
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 14
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001012a0", 
+        "Name": "size"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "vector<float,std::allocator<float>> *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 1
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 6, 
+          "Total Edges": 8
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 121
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 6
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 34
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 48, 
+        "Local Variable Count": 4
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001012d0", 
+        "Name": "operator[]"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "vector<float,std::allocator<float>> *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "vector *"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 35
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 11
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00101350", 
+        "Name": "vector"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "_Vector_base<float,std::allocator<float>> *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "_Vector_base *"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 35
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 11
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00101380", 
+        "Name": "_Vector_base"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "_Vector_impl *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "_Vector_impl *"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 63
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 18
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_38", 
+            "Stack Offset": -56, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_30", 
+            "Stack Offset": -48, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 64, 
+        "Local Variable Count": 6
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001013b0", 
+        "Name": "_Vector_impl"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "_Vector_impl_data *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "_Vector_impl_data *"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 87
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 22
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001013f0", 
+        "Name": "_Vector_impl_data"
+      }
+    }
+  ], 
+  "Function Count": 9
+}

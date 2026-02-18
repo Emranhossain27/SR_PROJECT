@@ -1,0 +1,3737 @@
+{
+  "Program": "program_065", 
+  "Functions": [
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [], 
+          "Total Parameters": 0
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 12
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 2
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102020", 
+        "Name": "FUN_00102020"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [], 
+          "Total Parameters": 0
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 2
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 6
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 1
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102030", 
+        "Name": "terminate"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "typedef size_t ulong", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "__s", 
+              "Type": "char *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 2
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 6
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 1
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102070", 
+        "Name": "strlen"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "void *", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "__dest", 
+              "Type": "void *"
+            }, 
+            {
+              "Parameter Name": "__src", 
+              "Type": "void *"
+            }, 
+            {
+              "Parameter Name": "__n", 
+              "Type": "typedef size_t ulong"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 2
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 6
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 1
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001020b0", 
+        "Name": "memcpy"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "void *", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 2
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 6
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 1
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001020c0", 
+        "Name": "operator.new"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "void", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "void *"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 2
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 6
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 1
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001020d0", 
+        "Name": "operator.delete"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "void *", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "__s", 
+              "Type": "void *"
+            }, 
+            {
+              "Parameter Name": "__c", 
+              "Type": "int"
+            }, 
+            {
+              "Parameter Name": "__n", 
+              "Type": "typedef size_t ulong"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 2
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 6
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 1
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001020e0", 
+        "Name": "memchr"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [], 
+          "Total Parameters": 0
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 2
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 6
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 1
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001020f0", 
+        "Name": "_Unwind_Resume"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "/Demangler/std/__cxx11/string\npack(disabled)\nStructure string {\n}\nLength: 0 Alignment: 1\n"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 4
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 18, 
+          "Total Edges": 34
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 507
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 18
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 107
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_ec", 
+            "Stack Offset": -236, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_e8", 
+            "Stack Offset": -232, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_e0", 
+            "Stack Offset": -224, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_d8", 
+            "Stack Offset": -216, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_d0", 
+            "Stack Offset": -208, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_c8", 
+            "Stack Offset": -200, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_c0", 
+            "Stack Offset": -192, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_b8", 
+            "Stack Offset": -184, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_b0", 
+            "Stack Offset": -176, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_a8", 
+            "Stack Offset": -168, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_a0", 
+            "Stack Offset": -160, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_98", 
+            "Stack Offset": -152, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_8c", 
+            "Stack Offset": -140, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_88", 
+            "Stack Offset": -136, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_71", 
+            "Stack Offset": -113, 
+            "Size (bytes)": 1
+          }, 
+          {
+            "Variable Name": "local_70", 
+            "Stack Offset": -112, 
+            "Size (bytes)": 1
+          }, 
+          {
+            "Variable Name": "local_50", 
+            "Stack Offset": -80, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_48", 
+            "Stack Offset": -72, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_40", 
+            "Stack Offset": -64, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_30", 
+            "Stack Offset": -48, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 244, 
+        "Local Variable Count": 24
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102200", 
+        "Name": "vowels_count"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [], 
+          "Total Parameters": 0
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 15
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 6
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_c", 
+            "Stack Offset": -12, 
+            "Size (bytes)": 4
+          }
+        ], 
+        "Stack Frame Size (bytes)": 20, 
+        "Local Variable Count": 1
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102440", 
+        "Name": "main"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "char *"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "allocator *"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 1
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 8, 
+          "Total Edges": 14
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 161
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 8
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 44
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_58", 
+            "Stack Offset": -88, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_50", 
+            "Stack Offset": -80, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_48", 
+            "Stack Offset": -72, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_38", 
+            "Stack Offset": -56, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_2c", 
+            "Stack Offset": -44, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 96, 
+        "Local Variable Count": 9
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102450", 
+        "Name": "string<std::allocator<char>>"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 27
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 9
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 24, 
+        "Local Variable Count": 1
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102500", 
+        "Name": "length"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "typedef __normal_iterator undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "typedef __normal_iterator undefined"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "typedef __normal_iterator undefined"
+            }, 
+            {
+              "Parameter Name": "param_3", 
+              "Type": "char *"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 3
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 8, 
+          "Total Edges": 11
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 330
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 8
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 78
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_b0", 
+            "Stack Offset": -176, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_a8", 
+            "Stack Offset": -168, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_a0", 
+            "Stack Offset": -160, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_98", 
+            "Stack Offset": -152, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_8c", 
+            "Stack Offset": -140, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_88", 
+            "Stack Offset": -136, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_80", 
+            "Stack Offset": -128, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_78", 
+            "Stack Offset": -120, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_70", 
+            "Stack Offset": -112, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_68", 
+            "Stack Offset": -104, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_60", 
+            "Stack Offset": -96, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_58", 
+            "Stack Offset": -88, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_50", 
+            "Stack Offset": -80, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_48", 
+            "Stack Offset": -72, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_40", 
+            "Stack Offset": -64, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_38", 
+            "Stack Offset": -56, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_30", 
+            "Stack Offset": -48, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 184, 
+        "Local Variable Count": 21
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102520", 
+        "Name": "find<__gnu_cxx::__normal_iterator<char*,std::__cxx11::string>,char>"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 65
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 19
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_30", 
+            "Stack Offset": -48, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 56, 
+        "Local Variable Count": 5
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102670", 
+        "Name": "begin"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 2
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 92
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 26
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_40", 
+            "Stack Offset": -64, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_38", 
+            "Stack Offset": -56, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_30", 
+            "Stack Offset": -48, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 72, 
+        "Local Variable Count": 7
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001026c0", 
+        "Name": "end"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 1
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 5, 
+          "Total Edges": 8
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 114
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 5
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 31
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 48, 
+        "Local Variable Count": 4
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102720", 
+        "Name": "operator[]"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 3, 
+          "Total Edges": 4
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 42
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 3
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 13
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001027a0", 
+        "Name": "~string"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "__new_allocator<char> *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 10
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 5
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 24, 
+        "Local Variable Count": 1
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001027e0", 
+        "Name": "~__new_allocator"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 1
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 3, 
+          "Total Edges": 5
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 48
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 3
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 15
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001027f0", 
+        "Name": "_M_dispose"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "_Alloc_hider *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 35
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 11
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102830", 
+        "Name": "~_Alloc_hider"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 2
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 5, 
+          "Total Edges": 8
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 82
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 5
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 25
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_9", 
+            "Stack Offset": -9, 
+            "Size (bytes)": 1
+          }
+        ], 
+        "Stack Frame Size (bytes)": 48, 
+        "Local Variable Count": 4
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102860", 
+        "Name": "_M_is_local"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 3, 
+          "Total Edges": 5
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 94
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 3
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 26
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_40", 
+            "Stack Offset": -64, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_38", 
+            "Stack Offset": -56, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_30", 
+            "Stack Offset": -48, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 72, 
+        "Local Variable Count": 7
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001028c0", 
+        "Name": "_M_destroy"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 17
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 7
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 24, 
+        "Local Variable Count": 1
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102930", 
+        "Name": "_M_data"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 31
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 10
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 24, 
+        "Local Variable Count": 1
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102950", 
+        "Name": "_M_local_data"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "char *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 14
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 6
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 24, 
+        "Local Variable Count": 1
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102970", 
+        "Name": "pointer_to"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 14
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 6
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 24, 
+        "Local Variable Count": 1
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102980", 
+        "Name": "_M_get_allocator"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "__new_allocator<char> *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "char *"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 43
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 13
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 40, 
+        "Local Variable Count": 3
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102990", 
+        "Name": "deallocate"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 31
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 10
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 24, 
+        "Local Variable Count": 1
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001029c0", 
+        "Name": "_M_local_data"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "_Alloc_hider *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "char *"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "allocator *"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 57
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 17
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_40", 
+            "Stack Offset": -64, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_38", 
+            "Stack Offset": -56, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_30", 
+            "Stack Offset": -48, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 72, 
+        "Local Variable Count": 7
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x001029e0", 
+        "Name": "_Alloc_hider"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "char *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 27
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 9
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 24, 
+        "Local Variable Count": 1
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102a20", 
+        "Name": "length"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "void", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "char *"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "char *"
+            }, 
+            {
+              "Parameter Name": "param_3", 
+              "Type": "typedef forward_iterator_tag undefined"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 1
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 8, 
+          "Total Edges": 16
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 226
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 8
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 58
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_80", 
+            "Stack Offset": -128, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_68", 
+            "Stack Offset": -104, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_60", 
+            "Stack Offset": -96, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_58", 
+            "Stack Offset": -88, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_50", 
+            "Stack Offset": -80, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_48", 
+            "Stack Offset": -72, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_38", 
+            "Stack Offset": -56, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_30", 
+            "Stack Offset": -48, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 136, 
+        "Local Variable Count": 12
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102a40", 
+        "Name": "_M_construct<char_const*>"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "char *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 14
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 6
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 24, 
+        "Local Variable Count": 1
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102b40", 
+        "Name": "pointer_to"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "char *"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 25
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 9
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102b50", 
+        "Name": "_M_data"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "ulong *"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 4
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 8, 
+          "Total Edges": 17
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 201
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 8
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 57
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_38", 
+            "Stack Offset": -56, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_30", 
+            "Stack Offset": -48, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 64, 
+        "Local Variable Count": 6
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102b70", 
+        "Name": "_M_create"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 26
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 9
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102c40", 
+        "Name": "_M_capacity"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [], 
+          "Total Parameters": 0
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 25
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 9
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102c60", 
+        "Name": "string*)"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "void", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "char *"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "char *"
+            }, 
+            {
+              "Parameter Name": "param_3", 
+              "Type": "char *"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 58
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 17
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 48, 
+        "Local Variable Count": 4
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102c80", 
+        "Name": "_S_copy_chars<char_const*>"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 3
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 68
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 19
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_19", 
+            "Stack Offset": -25, 
+            "Size (bytes)": 1
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 48, 
+        "Local Variable Count": 4
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102cc0", 
+        "Name": "_M_set_length"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "_Guard *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 1
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 5, 
+          "Total Edges": 6
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 48
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 5
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 16
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102d10", 
+        "Name": "~_Guard"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 4, 
+          "Total Edges": 5
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 115
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 4
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 29
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_48", 
+            "Stack Offset": -72, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_40", 
+            "Stack Offset": -64, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_38", 
+            "Stack Offset": -56, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_30", 
+            "Stack Offset": -48, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 80, 
+        "Local Variable Count": 8
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102d50", 
+        "Name": "max_size"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "allocator *"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 63
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 19
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_30", 
+            "Stack Offset": -48, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 56, 
+        "Local Variable Count": 5
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102dd0", 
+        "Name": "_S_allocate"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 14
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 6
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 24, 
+        "Local Variable Count": 1
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102e10", 
+        "Name": "_M_get_allocator"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "ulong *", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "ulong *"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "ulong *"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 1
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 4, 
+          "Total Edges": 4
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 52
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 4
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 17
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 40, 
+        "Local Variable Count": 3
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102e20", 
+        "Name": "min<unsigned_long>"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "ulong"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "void *"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 2
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 5, 
+          "Total Edges": 9
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 83
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 5
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 22
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 48, 
+        "Local Variable Count": 4
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102e60", 
+        "Name": "allocate"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "char *"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "char *"
+            }, 
+            {
+              "Parameter Name": "param_3", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 1
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 4, 
+          "Total Edges": 6
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 65
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 4
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 19
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 40, 
+        "Local Variable Count": 3
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102ec0", 
+        "Name": "_S_copy"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "char *"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "char *"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 26
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 10
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102f10", 
+        "Name": "assign"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "char *"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "char *"
+            }, 
+            {
+              "Parameter Name": "param_3", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 1
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 4, 
+          "Total Edges": 5
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 76
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 4
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 22
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_30", 
+            "Stack Offset": -48, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_28", 
+            "Stack Offset": -40, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 56, 
+        "Local Variable Count": 5
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102f30", 
+        "Name": "copy"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }, 
+            {
+              "Parameter Name": "param_1", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 26
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 9
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102f80", 
+        "Name": "_M_length"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "this", 
+              "Type": "string *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "__thiscall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 1
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 2, 
+          "Total Edges": 3
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 59
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 2
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 18
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 8
+          }
+        ], 
+        "Stack Frame Size (bytes)": 40, 
+        "Local Variable Count": 3
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00102fa0", 
+        "Name": "size"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [], 
+          "Total Parameters": 0
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 0, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 1
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 0
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 0
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00106000", 
+        "Name": "terminate"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "typedef size_t ulong", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "__s", 
+              "Type": "char *"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 0, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 1
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 0
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 0
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00106020", 
+        "Name": "strlen"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "void *", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "__dest", 
+              "Type": "void *"
+            }, 
+            {
+              "Parameter Name": "__src", 
+              "Type": "void *"
+            }, 
+            {
+              "Parameter Name": "__n", 
+              "Type": "typedef size_t ulong"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 0, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 1
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 0
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 0
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00106048", 
+        "Name": "memcpy"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "void *", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 1
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 0, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 1
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 0
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 0
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00106050", 
+        "Name": "operator.new"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "void", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "void *"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "ulong"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 0, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 1
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 0
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 0
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00106058", 
+        "Name": "operator.delete"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "void *", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "__s", 
+              "Type": "void *"
+            }, 
+            {
+              "Parameter Name": "__c", 
+              "Type": "int"
+            }, 
+            {
+              "Parameter Name": "__n", 
+              "Type": "typedef size_t ulong"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 0, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 1
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 0
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 0
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00106060", 
+        "Name": "memchr"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [], 
+          "Total Parameters": 0
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 0, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 1
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 0
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 0
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00106078", 
+        "Name": "_Unwind_Resume"
+      }
+    }
+  ], 
+  "Function Count": 56
+}

@@ -1,0 +1,352 @@
+{
+  "Program": "program_072", 
+  "Functions": [
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [], 
+          "Total Parameters": 0
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 12
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 2
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00101020", 
+        "Name": "FUN_00101020"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "double", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "__x", 
+              "Type": "double"
+            }, 
+            {
+              "Parameter Name": "__y", 
+              "Type": "double"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 2
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 6
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 1
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00101030", 
+        "Name": "pow"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "float"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "float"
+            }, 
+            {
+              "Parameter Name": "param_3", 
+              "Type": "float"
+            }
+          ], 
+          "Total Parameters": 3
+        }, 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 3
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 6, 
+          "Total Edges": 9
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 220
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 6
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 50
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_20", 
+            "Stack Offset": -32, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_1c", 
+            "Stack Offset": -28, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_14", 
+            "Stack Offset": -20, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_10", 
+            "Stack Offset": -16, 
+            "Size (bytes)": 4
+          }, 
+          {
+            "Variable Name": "local_c", 
+            "Stack Offset": -12, 
+            "Size (bytes)": 4
+          }
+        ], 
+        "Stack Frame Size (bytes)": 40, 
+        "Local Variable Count": 6
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00101140", 
+        "Name": "triangle_area"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "undefined", 
+        "Parameter Information": {
+          "Parameter Details": [], 
+          "Total Parameters": 0
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 15
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 6
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_c", 
+            "Stack Offset": -12, 
+            "Size (bytes)": 4
+          }
+        ], 
+        "Stack Frame Size (bytes)": 20, 
+        "Local Variable Count": 1
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00101220", 
+        "Name": "main"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "typedef __type undefined", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "param_1", 
+              "Type": "float"
+            }, 
+            {
+              "Parameter Name": "param_2", 
+              "Type": "double"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 1, 
+          "Total Edges": 1
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 43
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 1
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 12
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [
+          {
+            "Variable Name": "local_18", 
+            "Stack Offset": -24, 
+            "Size (bytes)": 8
+          }, 
+          {
+            "Variable Name": "local_c", 
+            "Stack Offset": -12, 
+            "Size (bytes)": 4
+          }
+        ], 
+        "Stack Frame Size (bytes)": 32, 
+        "Local Variable Count": 2
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00101230", 
+        "Name": "pow<float,double>"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Return Type": "double", 
+        "Parameter Information": {
+          "Parameter Details": [
+            {
+              "Parameter Name": "__x", 
+              "Type": "double"
+            }, 
+            {
+              "Parameter Name": "__y", 
+              "Type": "double"
+            }
+          ], 
+          "Total Parameters": 2
+        }, 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input Sources (APIs)": [], 
+        "Error Handling APIs": []
+      }, 
+      "Control Flow Features": {
+        "Branching Behavior": {
+          "Conditional Branch Count": 0
+        }, 
+        "CFG Metrics": {
+          "Total Nodes": 0, 
+          "Total Edges": 0
+        }
+      }, 
+      "Structural Features": {
+        "Function Size": {
+          "Size (addresses/bytes approx)": 1
+        }, 
+        "Basic Block Metrics": {
+          "Total Basic Blocks": 0
+        }, 
+        "Instruction Metrics": {
+          "Total Instructions": 0
+        }
+      }, 
+      "Stack & Memory Features": {
+        "Local Variables Detail": [], 
+        "Stack Frame Size (bytes)": 8, 
+        "Local Variable Count": 0
+      }, 
+      "Function Overview": {
+        "Entry Point (Address)": "0x00105008", 
+        "Name": "pow"
+      }
+    }
+  ], 
+  "Function Count": 6
+}
