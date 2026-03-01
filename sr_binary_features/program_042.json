@@ -1,0 +1,146 @@
+{
+  "Program": "program_042", 
+  "Functions": [
+    {
+      "Interface Features": {
+        "Parameters": [], 
+        "Return Type": "undefined", 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input APIs": [], 
+        "Error APIs": []
+      }, 
+      "Control Flow Features": {
+        "Conditional Branches": 0, 
+        "CFG Metrics": {
+          "Edges": 0, 
+          "Nodes": 1
+        }, 
+        "CFG Structure": {
+          "Edges": [], 
+          "Nodes": [
+            {
+              "End Address": "0x0010102b", 
+              "Block ID": "BB_0", 
+              "Start Address": "0x00101020", 
+              "Successors": []
+            }
+          ]
+        }
+      }, 
+      "Structural Features": {
+        "Instruction Count": 2, 
+        "Basic Block Count": 1
+      }, 
+      "Stack Features": {
+        "Local Variables": [], 
+        "Frame Size": 8
+      }, 
+      "Function Overview": {
+        "Entry Point": "0x00101020", 
+        "Name": "FUN_00101020"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Parameters": [
+          {
+            "Name": "param_1", 
+            "Type": "int"
+          }
+        ], 
+        "Return Type": "undefined", 
+        "Calling Convention": "__stdcall"
+      }, 
+      "Behavior Features": {
+        "Input APIs": [], 
+        "Error APIs": []
+      }, 
+      "Control Flow Features": {
+        "Conditional Branches": 0, 
+        "CFG Metrics": {
+          "Edges": 0, 
+          "Nodes": 1
+        }, 
+        "CFG Structure": {
+          "Edges": [], 
+          "Nodes": [
+            {
+              "End Address": "0x0010113f", 
+              "Block ID": "BB_0", 
+              "Start Address": "0x00101130", 
+              "Successors": []
+            }
+          ]
+        }
+      }, 
+      "Structural Features": {
+        "Instruction Count": 7, 
+        "Basic Block Count": 1
+      }, 
+      "Stack Features": {
+        "Local Variables": [
+          {
+            "Size": 4, 
+            "Name": "local_c", 
+            "Offset": -12
+          }
+        ], 
+        "Frame Size": 20
+      }, 
+      "Function Overview": {
+        "Entry Point": "0x00101130", 
+        "Name": "car_race_collision"
+      }
+    }, 
+    {
+      "Interface Features": {
+        "Parameters": [], 
+        "Return Type": "undefined", 
+        "Calling Convention": "unknown"
+      }, 
+      "Behavior Features": {
+        "Input APIs": [], 
+        "Error APIs": []
+      }, 
+      "Control Flow Features": {
+        "Conditional Branches": 0, 
+        "CFG Metrics": {
+          "Edges": 0, 
+          "Nodes": 1
+        }, 
+        "CFG Structure": {
+          "Edges": [], 
+          "Nodes": [
+            {
+              "End Address": "0x0010114e", 
+              "Block ID": "BB_0", 
+              "Start Address": "0x00101140", 
+              "Successors": []
+            }
+          ]
+        }
+      }, 
+      "Structural Features": {
+        "Instruction Count": 6, 
+        "Basic Block Count": 1
+      }, 
+      "Stack Features": {
+        "Local Variables": [
+          {
+            "Size": 4, 
+            "Name": "local_c", 
+            "Offset": -12
+          }
+        ], 
+        "Frame Size": 20
+      }, 
+      "Function Overview": {
+        "Entry Point": "0x00101140", 
+        "Name": "main"
+      }
+    }
+  ], 
+  "Function Count": 3
+}

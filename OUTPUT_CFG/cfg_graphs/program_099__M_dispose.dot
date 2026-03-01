@@ -1,0 +1,9 @@
+digraph CFG {
+  node [shape=box];
+  BB_2 [label="BB_2\n0x001027aa to 0x001027af"];
+  BB_1 [label="BB_1\n0x0010279d to 0x001027a9"];
+  BB_0 [label="BB_0\n0x00102780 to 0x0010279c"];
+  BB_0 -> BB_1;
+  BB_0 -> BB_2;
+  BB_1 -> BB_2;
+}

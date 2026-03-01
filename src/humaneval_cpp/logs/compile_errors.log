@@ -1,0 +1,1908 @@
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_014.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_014.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_014.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_014.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_014.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_014.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_014.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_014.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_014.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_014.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_014.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_014.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_025.cpp:7:17: warning: using directive refers to implicitly-defined namespace 'std'
+    7 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_025.cpp:7:17: warning: using directive refers to implicitly-defined namespace 'std'
+    7 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_025.cpp:7:17: warning: using directive refers to implicitly-defined namespace 'std'
+    7 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_025.cpp:7:17: warning: using directive refers to implicitly-defined namespace 'std'
+    7 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_025.cpp:7:17: warning: using directive refers to implicitly-defined namespace 'std'
+    7 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_025.cpp:7:17: warning: using directive refers to implicitly-defined namespace 'std'
+    7 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_025.cpp:7:17: warning: using directive refers to implicitly-defined namespace 'std'
+    7 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_025.cpp:7:17: warning: using directive refers to implicitly-defined namespace 'std'
+    7 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_025.cpp:7:17: warning: using directive refers to implicitly-defined namespace 'std'
+    7 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_025.cpp:7:17: warning: using directive refers to implicitly-defined namespace 'std'
+    7 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_025.cpp:7:17: warning: using directive refers to implicitly-defined namespace 'std'
+    7 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_025.cpp:7:17: warning: using directive refers to implicitly-defined namespace 'std'
+    7 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_032.cpp:19:17: warning: using directive refers to implicitly-defined namespace 'std'
+   19 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_032.cpp:19:17: warning: using directive refers to implicitly-defined namespace 'std'
+   19 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_032.cpp:19:17: warning: using directive refers to implicitly-defined namespace 'std'
+   19 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_032.cpp:19:17: warning: using directive refers to implicitly-defined namespace 'std'
+   19 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_032.cpp:19:17: warning: using directive refers to implicitly-defined namespace 'std'
+   19 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_032.cpp:19:17: warning: using directive refers to implicitly-defined namespace 'std'
+   19 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_032.cpp:19:17: warning: using directive refers to implicitly-defined namespace 'std'
+   19 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_032.cpp:19:17: warning: using directive refers to implicitly-defined namespace 'std'
+   19 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_032.cpp:19:17: warning: using directive refers to implicitly-defined namespace 'std'
+   19 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_032.cpp:19:17: warning: using directive refers to implicitly-defined namespace 'std'
+   19 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_032.cpp:19:17: warning: using directive refers to implicitly-defined namespace 'std'
+   19 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_032.cpp:19:17: warning: using directive refers to implicitly-defined namespace 'std'
+   19 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_037.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_037.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_037.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_037.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_037.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_037.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_037.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_037.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_037.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_037.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_037.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_037.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:35:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+   35 | }
+      | ^
+2 warnings generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:35:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+   35 | }
+      | ^
+2 warnings generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:35:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+   35 | }
+      | ^
+2 warnings generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:35:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+   35 | }
+      | ^
+2 warnings generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:35:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+   35 | }
+      | ^
+2 warnings generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:35:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+   35 | }
+      | ^
+2 warnings generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:35:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+   35 | }
+      | ^
+2 warnings generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:35:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+   35 | }
+      | ^
+2 warnings generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:35:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+   35 | }
+      | ^
+2 warnings generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:35:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+   35 | }
+      | ^
+2 warnings generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:35:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+   35 | }
+      | ^
+2 warnings generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_040.cpp:35:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+   35 | }
+      | ^
+2 warnings generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_042.cpp:13:17: warning: using directive refers to implicitly-defined namespace 'std'
+   13 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_042.cpp:13:17: warning: using directive refers to implicitly-defined namespace 'std'
+   13 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_042.cpp:13:17: warning: using directive refers to implicitly-defined namespace 'std'
+   13 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_042.cpp:13:17: warning: using directive refers to implicitly-defined namespace 'std'
+   13 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_042.cpp:13:17: warning: using directive refers to implicitly-defined namespace 'std'
+   13 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_042.cpp:13:17: warning: using directive refers to implicitly-defined namespace 'std'
+   13 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_042.cpp:13:17: warning: using directive refers to implicitly-defined namespace 'std'
+   13 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_042.cpp:13:17: warning: using directive refers to implicitly-defined namespace 'std'
+   13 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_042.cpp:13:17: warning: using directive refers to implicitly-defined namespace 'std'
+   13 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_042.cpp:13:17: warning: using directive refers to implicitly-defined namespace 'std'
+   13 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_042.cpp:13:17: warning: using directive refers to implicitly-defined namespace 'std'
+   13 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_042.cpp:13:17: warning: using directive refers to implicitly-defined namespace 'std'
+   13 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_047.cpp:17:17: warning: using directive refers to implicitly-defined namespace 'std'
+   17 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_047.cpp:17:17: warning: using directive refers to implicitly-defined namespace 'std'
+   17 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_047.cpp:17:17: warning: using directive refers to implicitly-defined namespace 'std'
+   17 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_047.cpp:17:17: warning: using directive refers to implicitly-defined namespace 'std'
+   17 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_047.cpp:17:17: warning: using directive refers to implicitly-defined namespace 'std'
+   17 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_047.cpp:17:17: warning: using directive refers to implicitly-defined namespace 'std'
+   17 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_047.cpp:17:17: warning: using directive refers to implicitly-defined namespace 'std'
+   17 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_047.cpp:17:17: warning: using directive refers to implicitly-defined namespace 'std'
+   17 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_047.cpp:17:17: warning: using directive refers to implicitly-defined namespace 'std'
+   17 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_047.cpp:17:17: warning: using directive refers to implicitly-defined namespace 'std'
+   17 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_047.cpp:17:17: warning: using directive refers to implicitly-defined namespace 'std'
+   17 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_047.cpp:17:17: warning: using directive refers to implicitly-defined namespace 'std'
+   17 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_050.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_050.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_050.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_050.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_050.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_050.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_050.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_050.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_050.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_050.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_050.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_050.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_056.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_056.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_056.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_056.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_056.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_056.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_056.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_056.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_056.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_056.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_056.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_056.cpp:11:17: warning: using directive refers to implicitly-defined namespace 'std'
+   11 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_060.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_060.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_060.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_060.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_060.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_060.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_060.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_060.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_060.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_060.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_060.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_060.cpp:9:17: warning: using directive refers to implicitly-defined namespace 'std'
+    9 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_061.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_061.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_061.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_061.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_061.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_061.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_061.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_061.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_061.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_061.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_061.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_061.cpp:15:17: warning: using directive refers to implicitly-defined namespace 'std'
+   15 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_064.cpp:16:17: warning: using directive refers to implicitly-defined namespace 'std'
+   16 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_064.cpp:16:17: warning: using directive refers to implicitly-defined namespace 'std'
+   16 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_064.cpp:16:17: warning: using directive refers to implicitly-defined namespace 'std'
+   16 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_064.cpp:16:17: warning: using directive refers to implicitly-defined namespace 'std'
+   16 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_064.cpp:16:17: warning: using directive refers to implicitly-defined namespace 'std'
+   16 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_064.cpp:16:17: warning: using directive refers to implicitly-defined namespace 'std'
+   16 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_064.cpp:16:17: warning: using directive refers to implicitly-defined namespace 'std'
+   16 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_064.cpp:16:17: warning: using directive refers to implicitly-defined namespace 'std'
+   16 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_064.cpp:16:17: warning: using directive refers to implicitly-defined namespace 'std'
+   16 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_064.cpp:16:17: warning: using directive refers to implicitly-defined namespace 'std'
+   16 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_064.cpp:16:17: warning: using directive refers to implicitly-defined namespace 'std'
+   16 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_064.cpp:16:17: warning: using directive refers to implicitly-defined namespace 'std'
+   16 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_076.cpp:10:17: warning: using directive refers to implicitly-defined namespace 'std'
+   10 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_076.cpp:10:17: warning: using directive refers to implicitly-defined namespace 'std'
+   10 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_076.cpp:10:17: warning: using directive refers to implicitly-defined namespace 'std'
+   10 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_076.cpp:10:17: warning: using directive refers to implicitly-defined namespace 'std'
+   10 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_076.cpp:10:17: warning: using directive refers to implicitly-defined namespace 'std'
+   10 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_076.cpp:10:17: warning: using directive refers to implicitly-defined namespace 'std'
+   10 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_076.cpp:10:17: warning: using directive refers to implicitly-defined namespace 'std'
+   10 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_076.cpp:10:17: warning: using directive refers to implicitly-defined namespace 'std'
+   10 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_076.cpp:10:17: warning: using directive refers to implicitly-defined namespace 'std'
+   10 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_076.cpp:10:17: warning: using directive refers to implicitly-defined namespace 'std'
+   10 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_076.cpp:10:17: warning: using directive refers to implicitly-defined namespace 'std'
+   10 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_076.cpp:10:17: warning: using directive refers to implicitly-defined namespace 'std'
+   10 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_084.cpp:6:17: warning: using directive refers to implicitly-defined namespace 'std'
+    6 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_084.cpp:6:17: warning: using directive refers to implicitly-defined namespace 'std'
+    6 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_084.cpp:6:17: warning: using directive refers to implicitly-defined namespace 'std'
+    6 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_084.cpp:6:17: warning: using directive refers to implicitly-defined namespace 'std'
+    6 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_084.cpp:6:17: warning: using directive refers to implicitly-defined namespace 'std'
+    6 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_084.cpp:6:17: warning: using directive refers to implicitly-defined namespace 'std'
+    6 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_084.cpp:6:17: warning: using directive refers to implicitly-defined namespace 'std'
+    6 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_084.cpp:6:17: warning: using directive refers to implicitly-defined namespace 'std'
+    6 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_084.cpp:6:17: warning: using directive refers to implicitly-defined namespace 'std'
+    6 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_084.cpp:6:17: warning: using directive refers to implicitly-defined namespace 'std'
+    6 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_084.cpp:6:17: warning: using directive refers to implicitly-defined namespace 'std'
+    6 | using namespace std;
+      |                 ^
+1 warning generated.
+/home/kali/sr_project/SR_PROJECT/src/humaneval_cpp/program_084.cpp:6:17: warning: using directive refers to implicitly-defined namespace 'std'
+    6 | using namespace std;
+      |                 ^
+1 warning generated.
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+/usr/bin/ld: /lib/x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x17): undefined reference to `main'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
