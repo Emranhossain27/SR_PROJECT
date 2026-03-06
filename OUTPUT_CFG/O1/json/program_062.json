@@ -1,0 +1,23 @@
+{
+  "Program": "program_062", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 7, 
+        "Nodes": 7, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 32, 
+        "Basic Block Count": 7
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 95, 
+        "Name": "correct_bracketing"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

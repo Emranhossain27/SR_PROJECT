@@ -1,0 +1,23 @@
+{
+  "Program": "program_092", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 4, 
+        "Edges": 10, 
+        "Nodes": 8, 
+        "Conditions": 4
+      }, 
+      "Structural Features": {
+        "Instruction Count": 42, 
+        "Basic Block Count": 8
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 120, 
+        "Name": "is_bored"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

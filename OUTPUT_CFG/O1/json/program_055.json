@@ -1,0 +1,40 @@
+{
+  "Program": "program_055", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 11, 
+        "Edges": 27, 
+        "Nodes": 18, 
+        "Conditions": 10
+      }, 
+      "Structural Features": {
+        "Instruction Count": 74, 
+        "Basic Block Count": 18
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 206, 
+        "Name": "same_chars"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101000", 
+        "Function Size": 1, 
+        "Name": "memchr"
+      }
+    }
+  ], 
+  "Function Count": 2
+}

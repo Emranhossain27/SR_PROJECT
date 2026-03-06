@@ -1,0 +1,74 @@
+{
+  "Program": "program_049", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 7, 
+        "Edges": 18, 
+        "Nodes": 13, 
+        "Conditions": 6
+      }, 
+      "Structural Features": {
+        "Instruction Count": 61, 
+        "Basic Block Count": 13
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 209, 
+        "Name": "is_palindrome"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101000", 
+        "Function Size": 1, 
+        "Name": "_M_create"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101008", 
+        "Function Size": 1, 
+        "Name": "bcmp"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101010", 
+        "Function Size": 1, 
+        "Name": "operator.delete"
+      }
+    }
+  ], 
+  "Function Count": 4
+}

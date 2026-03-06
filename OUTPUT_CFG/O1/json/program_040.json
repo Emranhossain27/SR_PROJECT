@@ -1,0 +1,23 @@
+{
+  "Program": "program_040", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 5, 
+        "Edges": 12, 
+        "Nodes": 9, 
+        "Conditions": 4
+      }, 
+      "Structural Features": {
+        "Instruction Count": 32, 
+        "Basic Block Count": 9
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 97, 
+        "Name": "prime_fib"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

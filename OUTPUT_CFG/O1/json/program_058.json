@@ -1,0 +1,23 @@
+{
+  "Program": "program_058", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 3, 
+        "Edges": 6, 
+        "Nodes": 5, 
+        "Conditions": 2
+      }, 
+      "Structural Features": {
+        "Instruction Count": 25, 
+        "Basic Block Count": 5
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 90, 
+        "Name": "monotonic"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

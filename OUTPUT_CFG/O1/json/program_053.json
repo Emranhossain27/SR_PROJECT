@@ -1,0 +1,23 @@
+{
+  "Program": "program_053", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 3, 
+        "Edges": 7, 
+        "Nodes": 6, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 17, 
+        "Basic Block Count": 6
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 53, 
+        "Name": "below_threshold"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

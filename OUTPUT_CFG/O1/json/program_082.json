@@ -1,0 +1,125 @@
+{
+  "Program": "program_082", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 66, 
+        "Edges": 197, 
+        "Nodes": 133, 
+        "Conditions": 65
+      }, 
+      "Structural Features": {
+        "Instruction Count": 572, 
+        "Basic Block Count": 133
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 2515, 
+        "Name": "numerical_letter_grade[abi:cxx11]"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 4, 
+        "Edges": 10, 
+        "Nodes": 8, 
+        "Conditions": 4
+      }, 
+      "Structural Features": {
+        "Instruction Count": 35, 
+        "Basic Block Count": 8
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100ae0", 
+        "Function Size": 95, 
+        "Name": "~vector"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 6, 
+        "Edges": 19, 
+        "Nodes": 15, 
+        "Conditions": 6
+      }, 
+      "Structural Features": {
+        "Instruction Count": 104, 
+        "Basic Block Count": 15
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100b50", 
+        "Function Size": 380, 
+        "Name": "_M_realloc_append<std::__cxx11::string>"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101000", 
+        "Function Size": 1, 
+        "Name": "operator.delete"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101008", 
+        "Function Size": 1, 
+        "Name": "_Unwind_Resume"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101010", 
+        "Function Size": 1, 
+        "Name": "operator.new"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101018", 
+        "Function Size": 1, 
+        "Name": "memcpy"
+      }
+    }
+  ], 
+  "Function Count": 7
+}

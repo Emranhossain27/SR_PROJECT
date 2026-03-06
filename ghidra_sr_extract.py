@@ -56,7 +56,7 @@ def is_runtime_function(name):
 # ----------------------------------------------------------
 
 BASE_DIR = "/home/kali/sr_project/SR_PROJECT/OUTPUT_CFG"
-OPT_LEVEL = "O0"
+OPT_LEVEL = "O1"
 
 OUT_DIR = os.path.join(BASE_DIR, OPT_LEVEL)
 
