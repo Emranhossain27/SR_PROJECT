@@ -1,0 +1,18 @@
+#!/bin/bash
+BIN_DIR=~/sr_project/SR_PROJECT/src/humaneval_cpp/obj_from_bc/O2
+GHIDRA=/opt/ghidra/support/analyzeHeadless
+PROJECT=~/ghidra_projects/sr_project
+SCRIPT_PATH=~/sr_project/SR_PROJECT
+SCRIPT=ghidra_sr_extract.py
+
+for f in $BIN_DIR/*.o
+do
+echo "Processing $f"
+
+$GHIDRA $PROJECT tmp \
+-import "$f" \
+-scriptPath $SCRIPT_PATH \
+-postScript $SCRIPT \
+-deleteProject
+
+done

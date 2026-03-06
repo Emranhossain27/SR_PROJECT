@@ -1,0 +1,23 @@
+{
+  "Program": "program_024", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 1, 
+        "Edges": 0, 
+        "Nodes": 1, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 2, 
+        "Basic Block Count": 1
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 4, 
+        "Name": "strlen"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

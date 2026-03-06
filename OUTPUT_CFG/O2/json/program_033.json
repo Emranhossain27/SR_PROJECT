@@ -1,0 +1,108 @@
+{
+  "Program": "program_033", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 6, 
+        "Edges": 14, 
+        "Nodes": 10, 
+        "Conditions": 5
+      }, 
+      "Structural Features": {
+        "Instruction Count": 96, 
+        "Basic Block Count": 10
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 424, 
+        "Name": "poly"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 17, 
+        "Edges": 46, 
+        "Nodes": 31, 
+        "Conditions": 16
+      }, 
+      "Structural Features": {
+        "Instruction Count": 283, 
+        "Basic Block Count": 31
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x001001b0", 
+        "Function Size": 1256, 
+        "Name": "find_zero"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101000", 
+        "Function Size": 1, 
+        "Name": "pow"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101008", 
+        "Function Size": 1, 
+        "Name": "operator.new"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101010", 
+        "Function Size": 1, 
+        "Name": "memcpy"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101018", 
+        "Function Size": 1, 
+        "Name": "operator.delete"
+      }
+    }
+  ], 
+  "Function Count": 6
+}

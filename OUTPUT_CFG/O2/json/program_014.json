@@ -1,0 +1,23 @@
+{
+  "Program": "program_014", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 3, 
+        "Nodes": 3, 
+        "Conditions": 1
+      }, 
+      "Structural Features": {
+        "Instruction Count": 12, 
+        "Basic Block Count": 3
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 36, 
+        "Name": "greatest_common_divisor"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

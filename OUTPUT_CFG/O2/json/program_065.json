@@ -1,0 +1,40 @@
+{
+  "Program": "program_065", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 4, 
+        "Edges": 10, 
+        "Nodes": 8, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 50, 
+        "Basic Block Count": 8
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 165, 
+        "Name": "vowels_count"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101000", 
+        "Function Size": 1, 
+        "Name": "memchr"
+      }
+    }
+  ], 
+  "Function Count": 2
+}

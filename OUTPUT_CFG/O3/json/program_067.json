@@ -1,0 +1,23 @@
+{
+  "Program": "program_067", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 6, 
+        "Edges": 17, 
+        "Nodes": 13, 
+        "Conditions": 5
+      }, 
+      "Structural Features": {
+        "Instruction Count": 62, 
+        "Basic Block Count": 13
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 244, 
+        "Name": "digitSum"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

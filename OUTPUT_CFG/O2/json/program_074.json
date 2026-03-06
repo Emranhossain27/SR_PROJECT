@@ -1,0 +1,23 @@
+{
+  "Program": "program_074", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 3, 
+        "Edges": 5, 
+        "Nodes": 4, 
+        "Conditions": 2
+      }, 
+      "Structural Features": {
+        "Instruction Count": 19, 
+        "Basic Block Count": 4
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 62, 
+        "Name": "smallest_change"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

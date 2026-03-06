@@ -1,0 +1,23 @@
+{
+  "Program": "program_050", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 5, 
+        "Edges": 13, 
+        "Nodes": 10, 
+        "Conditions": 5
+      }, 
+      "Structural Features": {
+        "Instruction Count": 39, 
+        "Basic Block Count": 10
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 110, 
+        "Name": "modp"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

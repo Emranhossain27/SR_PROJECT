@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BIN_DIR=~/sr_project/SR_PROJECT/src/humaneval_cpp/obj_from_bc/O1
+BIN_DIR=~/sr_project/SR_PROJECT/src/humaneval_cpp/obj_from_bc/O3
 GHIDRA=/opt/ghidra/support/analyzeHeadless
 PROJECT=~/ghidra_projects/sr_project
 SCRIPT_PATH=~/sr_project/SR_PROJECT

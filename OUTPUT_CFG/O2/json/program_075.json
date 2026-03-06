@@ -1,0 +1,23 @@
+{
+  "Program": "program_075", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 11, 
+        "Edges": 26, 
+        "Nodes": 17, 
+        "Conditions": 10
+      }, 
+      "Structural Features": {
+        "Instruction Count": 102, 
+        "Basic Block Count": 17
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 369, 
+        "Name": "total_match"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

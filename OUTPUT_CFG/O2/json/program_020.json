@@ -1,0 +1,618 @@
+{
+  "Program": "program_020", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 57, 
+        "Edges": 179, 
+        "Nodes": 124, 
+        "Conditions": 57
+      }, 
+      "Structural Features": {
+        "Instruction Count": 627, 
+        "Basic Block Count": 124
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 3394, 
+        "Name": "sort_numbers"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 11, 
+        "Edges": 27, 
+        "Nodes": 18, 
+        "Conditions": 10
+      }, 
+      "Structural Features": {
+        "Instruction Count": 85, 
+        "Basic Block Count": 18
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101160", 
+        "Function Size": 275, 
+        "Name": "map"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 9, 
+        "Edges": 23, 
+        "Nodes": 16, 
+        "Conditions": 8
+      }, 
+      "Structural Features": {
+        "Instruction Count": 87, 
+        "Basic Block Count": 16
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x001012b0", 
+        "Function Size": 310, 
+        "Name": "operator[]"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 1, 
+        "Edges": 1, 
+        "Nodes": 2, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 5, 
+        "Basic Block Count": 2
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x001013f0", 
+        "Function Size": 12, 
+        "Name": "~map"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 1, 
+        "Edges": 1, 
+        "Nodes": 2, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 5, 
+        "Basic Block Count": 2
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101420", 
+        "Function Size": 12, 
+        "Name": "~map"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 1, 
+        "Edges": 1, 
+        "Nodes": 2, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 5, 
+        "Basic Block Count": 2
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101450", 
+        "Function Size": 12, 
+        "Name": "~_Rb_tree"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 5, 
+        "Edges": 10, 
+        "Nodes": 7, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 30, 
+        "Basic Block Count": 7
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101480", 
+        "Function Size": 87, 
+        "Name": "_M_erase"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 1, 
+        "Edges": 1, 
+        "Nodes": 2, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 5, 
+        "Basic Block Count": 2
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101500", 
+        "Function Size": 12, 
+        "Name": "~_Rb_tree"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 5, 
+        "Edges": 10, 
+        "Nodes": 7, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 30, 
+        "Basic Block Count": 7
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101530", 
+        "Function Size": 87, 
+        "Name": "_M_erase"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 12, 
+        "Edges": 30, 
+        "Nodes": 20, 
+        "Conditions": 11
+      }, 
+      "Structural Features": {
+        "Instruction Count": 106, 
+        "Basic Block Count": 20
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x001015a0", 
+        "Function Size": 373, 
+        "Name": "_M_insert_range_unique<std::pair<std::__cxx11::string_const,int>const*>"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 21, 
+        "Edges": 53, 
+        "Nodes": 34, 
+        "Conditions": 20
+      }, 
+      "Structural Features": {
+        "Instruction Count": 174, 
+        "Basic Block Count": 34
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101720", 
+        "Function Size": 639, 
+        "Name": "_M_get_insert_hint_unique_pos"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 10, 
+        "Edges": 26, 
+        "Nodes": 18, 
+        "Conditions": 9
+      }, 
+      "Structural Features": {
+        "Instruction Count": 96, 
+        "Basic Block Count": 18
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x001019a0", 
+        "Function Size": 319, 
+        "Name": "_M_get_insert_unique_pos"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 4, 
+        "Edges": 10, 
+        "Nodes": 8, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 46, 
+        "Basic Block Count": 8
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101af0", 
+        "Function Size": 145, 
+        "Name": "_M_construct_node<std::pair<std::__cxx11::string_const,int>const&>"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 22, 
+        "Edges": 58, 
+        "Nodes": 38, 
+        "Conditions": 21
+      }, 
+      "Structural Features": {
+        "Instruction Count": 146, 
+        "Basic Block Count": 38
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101be0", 
+        "Function Size": 459, 
+        "Name": "_M_get_insert_hint_unique_pos"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 4, 
+        "Edges": 10, 
+        "Nodes": 8, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 43, 
+        "Basic Block Count": 8
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101db0", 
+        "Function Size": 127, 
+        "Name": "_M_construct_node<std::pair<int_const,std::__cxx11::string>const&>"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 6, 
+        "Edges": 17, 
+        "Nodes": 13, 
+        "Conditions": 5
+      }, 
+      "Structural Features": {
+        "Instruction Count": 90, 
+        "Basic Block Count": 13
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101e90", 
+        "Function Size": 298, 
+        "Name": "_M_emplace_hint_unique<std::piecewise_construct_t_const&,std::tuple<std::__cxx11::string_const&>,std::tuple<>>"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 5, 
+        "Nodes": 5, 
+        "Conditions": 2
+      }, 
+      "Structural Features": {
+        "Instruction Count": 17, 
+        "Basic Block Count": 5
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101ff0", 
+        "Function Size": 50, 
+        "Name": "~_Auto_node"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 4, 
+        "Edges": 10, 
+        "Nodes": 8, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 43, 
+        "Basic Block Count": 8
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00102030", 
+        "Function Size": 131, 
+        "Name": "_M_construct_node<std::piecewise_construct_t_const&,std::tuple<std::__cxx11::string_const&>,std::tuple<>>"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 4, 
+        "Edges": 12, 
+        "Nodes": 10, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 63, 
+        "Basic Block Count": 10
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00102110", 
+        "Function Size": 203, 
+        "Name": "_M_emplace_hint_unique<std::piecewise_construct_t_const&,std::tuple<int_const&>,std::tuple<>>"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 5, 
+        "Nodes": 5, 
+        "Conditions": 2
+      }, 
+      "Structural Features": {
+        "Instruction Count": 17, 
+        "Basic Block Count": 5
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00102210", 
+        "Function Size": 50, 
+        "Name": "~_Auto_node"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103000", 
+        "Function Size": 1, 
+        "Name": "operator.delete"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103008", 
+        "Function Size": 1, 
+        "Name": "reserve"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103010", 
+        "Function Size": 1, 
+        "Name": "_M_append"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103018", 
+        "Function Size": 1, 
+        "Name": "memcpy"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103020", 
+        "Function Size": 1, 
+        "Name": "_M_replace"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103028", 
+        "Function Size": 1, 
+        "Name": "_M_mutate"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103030", 
+        "Function Size": 1, 
+        "Name": "_M_replace_aux"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103038", 
+        "Function Size": 1, 
+        "Name": "_M_erase"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103048", 
+        "Function Size": 1, 
+        "Name": "_Unwind_Resume"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103050", 
+        "Function Size": 1, 
+        "Name": "_Rb_tree_decrement"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103058", 
+        "Function Size": 1, 
+        "Name": "operator.new"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103060", 
+        "Function Size": 1, 
+        "Name": "_Rb_tree_insert_and_rebalance"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103068", 
+        "Function Size": 1, 
+        "Name": "memcmp"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103078", 
+        "Function Size": 1, 
+        "Name": "terminate"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103080", 
+        "Function Size": 1, 
+        "Name": "_Rb_tree_increment"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00103088", 
+        "Function Size": 1, 
+        "Name": "_M_create"
+      }
+    }
+  ], 
+  "Function Count": 36
+}

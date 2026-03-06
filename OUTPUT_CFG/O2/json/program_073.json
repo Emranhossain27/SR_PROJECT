@@ -1,0 +1,23 @@
+{
+  "Program": "program_073", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 3, 
+        "Edges": 9, 
+        "Nodes": 8, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 26, 
+        "Basic Block Count": 8
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 69, 
+        "Name": "will_it_fly"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

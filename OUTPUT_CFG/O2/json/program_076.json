@@ -1,0 +1,23 @@
+{
+  "Program": "program_076", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 5, 
+        "Edges": 12, 
+        "Nodes": 9, 
+        "Conditions": 4
+      }, 
+      "Structural Features": {
+        "Instruction Count": 28, 
+        "Basic Block Count": 9
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 61, 
+        "Name": "is_multiply_prime"
+      }
+    }
+  ], 
+  "Function Count": 1
+}
