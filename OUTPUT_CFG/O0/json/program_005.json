@@ -1,0 +1,74 @@
+{
+  "Program": "program_005", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 5, 
+        "Edges": 14, 
+        "Nodes": 11, 
+        "Conditions": 4
+      }, 
+      "Structural Features": {
+        "Instruction Count": 96, 
+        "Basic Block Count": 11
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 380, 
+        "Name": "mean_absolute_deviation"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 1, 
+        "Edges": 1, 
+        "Nodes": 2, 
+        "Conditions": 1
+      }, 
+      "Structural Features": {
+        "Instruction Count": 14, 
+        "Basic Block Count": 2
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100180", 
+        "Function Size": 43, 
+        "Name": "size"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 6, 
+        "Nodes": 6, 
+        "Conditions": 1
+      }, 
+      "Structural Features": {
+        "Instruction Count": 34, 
+        "Basic Block Count": 6
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x001001b0", 
+        "Function Size": 121, 
+        "Name": "operator[]"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 1, 
+        "Edges": 0, 
+        "Nodes": 1, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 8, 
+        "Basic Block Count": 1
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100240", 
+        "Function Size": 27, 
+        "Name": "abs"
+      }
+    }
+  ], 
+  "Function Count": 4
+}

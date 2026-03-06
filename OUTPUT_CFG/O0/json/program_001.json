@@ -1,0 +1,74 @@
+{
+  "Program": "program_001", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 4, 
+        "Edges": 14, 
+        "Nodes": 12, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 59, 
+        "Basic Block Count": 12
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 211, 
+        "Name": "has_close_elements"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 1, 
+        "Edges": 1, 
+        "Nodes": 2, 
+        "Conditions": 1
+      }, 
+      "Structural Features": {
+        "Instruction Count": 14, 
+        "Basic Block Count": 2
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x001000e0", 
+        "Function Size": 43, 
+        "Name": "size"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 1, 
+        "Edges": 0, 
+        "Nodes": 1, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 8, 
+        "Basic Block Count": 1
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100120", 
+        "Function Size": 27, 
+        "Name": "abs"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 6, 
+        "Nodes": 6, 
+        "Conditions": 1
+      }, 
+      "Structural Features": {
+        "Instruction Count": 34, 
+        "Basic Block Count": 6
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100140", 
+        "Function Size": 121, 
+        "Name": "operator[]"
+      }
+    }
+  ], 
+  "Function Count": 4
+}

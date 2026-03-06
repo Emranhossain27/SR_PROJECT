@@ -1,0 +1,57 @@
+{
+  "Program": "program_036", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 3, 
+        "Edges": 8, 
+        "Nodes": 7, 
+        "Conditions": 2
+      }, 
+      "Structural Features": {
+        "Instruction Count": 39, 
+        "Basic Block Count": 7
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 148, 
+        "Name": "max_element"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 1, 
+        "Edges": 1, 
+        "Nodes": 2, 
+        "Conditions": 1
+      }, 
+      "Structural Features": {
+        "Instruction Count": 14, 
+        "Basic Block Count": 2
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x001000a0", 
+        "Function Size": 43, 
+        "Name": "size"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 6, 
+        "Nodes": 6, 
+        "Conditions": 1
+      }, 
+      "Structural Features": {
+        "Instruction Count": 34, 
+        "Basic Block Count": 6
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x001000d0", 
+        "Function Size": 121, 
+        "Name": "operator[]"
+      }
+    }
+  ], 
+  "Function Count": 3
+}

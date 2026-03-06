@@ -1,0 +1,23 @@
+{
+  "Program": "program_056", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 4, 
+        "Nodes": 4, 
+        "Conditions": 1
+      }, 
+      "Structural Features": {
+        "Instruction Count": 29, 
+        "Basic Block Count": 4
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 142, 
+        "Name": "fib"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

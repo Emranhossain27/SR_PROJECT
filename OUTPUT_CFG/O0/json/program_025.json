@@ -1,0 +1,23 @@
+{
+  "Program": "program_025", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 3, 
+        "Edges": 9, 
+        "Nodes": 8, 
+        "Conditions": 2
+      }, 
+      "Structural Features": {
+        "Instruction Count": 27, 
+        "Basic Block Count": 8
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 75, 
+        "Name": "largest_divisor"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

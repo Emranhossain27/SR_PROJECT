@@ -1,0 +1,23 @@
+{
+  "Program": "program_077", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 4, 
+        "Edges": 12, 
+        "Nodes": 10, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 35, 
+        "Basic Block Count": 10
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 102, 
+        "Name": "is_simple_power"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

@@ -1,0 +1,23 @@
+{
+  "Program": "program_078", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 3, 
+        "Edges": 9, 
+        "Nodes": 8, 
+        "Conditions": 2
+      }, 
+      "Structural Features": {
+        "Instruction Count": 34, 
+        "Basic Block Count": 8
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 94, 
+        "Name": "iscuber"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

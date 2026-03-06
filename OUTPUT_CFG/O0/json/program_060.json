@@ -1,0 +1,23 @@
+{
+  "Program": "program_060", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 4, 
+        "Edges": 13, 
+        "Nodes": 11, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 37, 
+        "Basic Block Count": 11
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 96, 
+        "Name": "largest_prime_factor"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

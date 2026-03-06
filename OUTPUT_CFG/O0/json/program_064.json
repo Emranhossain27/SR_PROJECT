@@ -1,0 +1,23 @@
+{
+  "Program": "program_064", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 4, 
+        "Nodes": 4, 
+        "Conditions": 1
+      }, 
+      "Structural Features": {
+        "Instruction Count": 34, 
+        "Basic Block Count": 4
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 170, 
+        "Name": "fibfib"
+      }
+    }
+  ], 
+  "Function Count": 1
+}

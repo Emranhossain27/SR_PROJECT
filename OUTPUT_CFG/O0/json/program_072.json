@@ -1,0 +1,57 @@
+{
+  "Program": "program_072", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 4, 
+        "Edges": 8, 
+        "Nodes": 6, 
+        "Conditions": 3
+      }, 
+      "Structural Features": {
+        "Instruction Count": 50, 
+        "Basic Block Count": 6
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 220, 
+        "Name": "triangle_area"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 1, 
+        "Edges": 0, 
+        "Nodes": 1, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 12, 
+        "Basic Block Count": 1
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x001000f0", 
+        "Function Size": 43, 
+        "Name": "pow<float,double>"
+      }
+    }, 
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 2, 
+        "Edges": 0, 
+        "Nodes": 0, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 0, 
+        "Basic Block Count": 0
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00101000", 
+        "Function Size": 1, 
+        "Name": "pow"
+      }
+    }
+  ], 
+  "Function Count": 3
+}

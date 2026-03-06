@@ -1,0 +1,23 @@
+{
+  "Program": "program_054", 
+  "Functions": [
+    {
+      "Control Flow": {
+        "Cyclomatic Complexity": 1, 
+        "Edges": 0, 
+        "Nodes": 1, 
+        "Conditions": 0
+      }, 
+      "Structural Features": {
+        "Instruction Count": 8, 
+        "Basic Block Count": 1
+      }, 
+      "Function Boundaries": {
+        "Entry Point": "0x00100000", 
+        "Function Size": 18, 
+        "Name": "add"
+      }
+    }
+  ], 
+  "Function Count": 1
+}
