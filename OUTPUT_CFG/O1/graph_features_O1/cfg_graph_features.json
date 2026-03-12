@@ -1,0 +1,3306 @@
+[
+    {
+        "function": "program_039_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_027_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_013_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_023__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_099_count_upper.dot",
+        "nodes": 6,
+        "edges": 7,
+        "density": 0.23333333333333334,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_035__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_030__M_realloc_append<std::__cxx11::string_const&>.dot",
+        "nodes": 20,
+        "edges": 26,
+        "density": 0.06842105263157895,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_015_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_015_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_068__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_038_sort_even.dot",
+        "nodes": 56,
+        "edges": 75,
+        "density": 0.024350649350649352,
+        "loops": 15,
+        "depth": -1
+    },
+    {
+        "function": "program_033_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_023_wrapexcept.dot",
+        "nodes": 4,
+        "edges": 4,
+        "density": 0.3333333333333333,
+        "loops": 0,
+        "depth": 3
+    },
+    {
+        "function": "program_059_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_049_is_palindrome.dot",
+        "nodes": 13,
+        "edges": 18,
+        "density": 0.11538461538461539,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_010_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_076_is_multiply_prime.dot",
+        "nodes": 9,
+        "edges": 12,
+        "density": 0.16666666666666666,
+        "loops": 3,
+        "depth": -1
+    },
+    {
+        "function": "program_096_check_dict_case.dot",
+        "nodes": 26,
+        "edges": 39,
+        "density": 0.06,
+        "loops": 86,
+        "depth": -1
+    },
+    {
+        "function": "program_007__M_mutate.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_038_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_046_triangle_area.dot",
+        "nodes": 1,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_038_memmove.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_002_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_059_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_004_below_zero.dot",
+        "nodes": 6,
+        "edges": 7,
+        "density": 0.23333333333333334,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_020__M_construct_node<std::pair<int_const,std::__cxx11::string>const&>.dot",
+        "nodes": 8,
+        "edges": 10,
+        "density": 0.17857142857142858,
+        "loops": 0,
+        "depth": 6
+    },
+    {
+        "function": "program_049__M_create.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_011_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_051__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_034_memmove.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_097_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_007__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_016_terminate.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_070__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_054_add.dot",
+        "nodes": 1,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_007_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_089__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_021__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_094_memchr.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_070_search.dot",
+        "nodes": 38,
+        "edges": 52,
+        "density": 0.03698435277382646,
+        "loops": 38,
+        "depth": -1
+    },
+    {
+        "function": "program_017_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_019_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_082_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_070_~vector.dot",
+        "nodes": 8,
+        "edges": 9,
+        "density": 0.16071428571428573,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_069__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_066_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_039__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_018_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_002__M_create.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_027_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_039_encode_cyclic.dot",
+        "nodes": 61,
+        "edges": 87,
+        "density": 0.023770491803278688,
+        "loops": 8856,
+        "depth": -1
+    },
+    {
+        "function": "program_088__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_023_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_008_find.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_030_~vector.dot",
+        "nodes": 8,
+        "edges": 10,
+        "density": 0.17857142857142858,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_029_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_023_~bad_any_cast.dot",
+        "nodes": 1,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_091_next_smallest.dot",
+        "nodes": 8,
+        "edges": 11,
+        "density": 0.19642857142857142,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_065_memchr.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_018__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_001_has_close_elements.dot",
+        "nodes": 10,
+        "edges": 13,
+        "density": 0.14444444444444443,
+        "loops": 3,
+        "depth": -1
+    },
+    {
+        "function": "program_049_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_007_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_032_is_prime.dot",
+        "nodes": 7,
+        "edges": 9,
+        "density": 0.21428571428571427,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_023_~wrapexcept.dot",
+        "nodes": 5,
+        "edges": 6,
+        "density": 0.3,
+        "loops": 0,
+        "depth": 4
+    },
+    {
+        "function": "program_095_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_016_string_sequence[abi:cxx11].dot",
+        "nodes": 62,
+        "edges": 89,
+        "density": 0.023532522474881017,
+        "loops": 19202,
+        "depth": -1
+    },
+    {
+        "function": "program_093_any_int.dot",
+        "nodes": 8,
+        "edges": 13,
+        "density": 0.23214285714285715,
+        "loops": 0,
+        "depth": 7
+    },
+    {
+        "function": "program_023_clone.dot",
+        "nodes": 6,
+        "edges": 6,
+        "density": 0.2,
+        "loops": 0,
+        "depth": 5
+    },
+    {
+        "function": "program_018__M_mutate.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_051_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_073_will_it_fly.dot",
+        "nodes": 8,
+        "edges": 9,
+        "density": 0.16071428571428573,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_020_~_Rb_tree.dot",
+        "nodes": 2,
+        "edges": 1,
+        "density": 0.5,
+        "loops": 0,
+        "depth": 1
+    },
+    {
+        "function": "program_085_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_038_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020__M_emplace_hint_unique<std::piecewise_construct_t_const&,std::tuple<std::__cxx11::string_const&>,std::tuple<>>.dot",
+        "nodes": 17,
+        "edges": 23,
+        "density": 0.08455882352941177,
+        "loops": 0,
+        "depth": 14
+    },
+    {
+        "function": "program_066_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_018__M_replace.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_033_pow.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_034_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_015_all_prefixes.dot",
+        "nodes": 35,
+        "edges": 48,
+        "density": 0.040336134453781515,
+        "loops": 70,
+        "depth": -1
+    },
+    {
+        "function": "program_047_fib4.dot",
+        "nodes": 4,
+        "edges": 5,
+        "density": 0.4166666666666667,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_084_starts_one_ends.dot",
+        "nodes": 7,
+        "edges": 9,
+        "density": 0.21428571428571427,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_003_truncate_number.dot",
+        "nodes": 1,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_030_filter_by_prefix.dot",
+        "nodes": 30,
+        "edges": 42,
+        "density": 0.04827586206896552,
+        "loops": 288,
+        "depth": -1
+    },
+    {
+        "function": "program_029_concatenate.dot",
+        "nodes": 27,
+        "edges": 37,
+        "density": 0.05270655270655271,
+        "loops": 12,
+        "depth": -1
+    },
+    {
+        "function": "program_002_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_089_sort_array.dot",
+        "nodes": 26,
+        "edges": 34,
+        "density": 0.052307692307692305,
+        "loops": 5,
+        "depth": -1
+    },
+    {
+        "function": "program_033_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_045_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_011__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_021_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_028__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_035_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_057_correct_bracketing.dot",
+        "nodes": 7,
+        "edges": 7,
+        "density": 0.16666666666666666,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_005_mean_absolute_deviation.dot",
+        "nodes": 7,
+        "edges": 10,
+        "density": 0.23809523809523808,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_019_bcmp.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_028_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_099_memchr.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_016__M_replace.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020__M_erase.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_055_memchr.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_089_memmove.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_029_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_069_memmove.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_021_find_closest_elements.dot",
+        "nodes": 40,
+        "edges": 59,
+        "density": 0.03782051282051282,
+        "loops": 43,
+        "depth": -1
+    },
+    {
+        "function": "program_008_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_023_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_031_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_068_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_016__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_070_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_059__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_030_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_049_bcmp.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_071_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_013__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_085__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_011__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_030__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_063_derivative.dot",
+        "nodes": 21,
+        "edges": 26,
+        "density": 0.06190476190476191,
+        "loops": 5,
+        "depth": -1
+    },
+    {
+        "function": "program_071__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_068__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020_~map.dot",
+        "nodes": 2,
+        "edges": 1,
+        "density": 0.5,
+        "loops": 0,
+        "depth": 1
+    },
+    {
+        "function": "program_068_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020__Rb_tree_insert_and_rebalance.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_053_below_threshold.dot",
+        "nodes": 6,
+        "edges": 7,
+        "density": 0.23333333333333334,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_020__M_replace_aux.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_008_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020__Rb_tree_decrement.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_089_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_095_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_009_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_029_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_039__M_replace_aux.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_059_common.dot",
+        "nodes": 66,
+        "edges": 97,
+        "density": 0.02261072261072261,
+        "loops": 497,
+        "depth": -1
+    },
+    {
+        "function": "program_092_is_bored.dot",
+        "nodes": 8,
+        "edges": 10,
+        "density": 0.17857142857142858,
+        "loops": 3,
+        "depth": -1
+    },
+    {
+        "function": "program_029__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_082__M_realloc_append<std::__cxx11::string>.dot",
+        "nodes": 15,
+        "edges": 19,
+        "density": 0.09047619047619047,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_026_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_045_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_078_iscuber.dot",
+        "nodes": 3,
+        "edges": 3,
+        "density": 0.5,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_016__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_094_encode.dot",
+        "nodes": 39,
+        "edges": 55,
+        "density": 0.037112010796221326,
+        "loops": 144,
+        "depth": -1
+    },
+    {
+        "function": "program_045_change_base[abi:cxx11].dot",
+        "nodes": 48,
+        "edges": 68,
+        "density": 0.030141843971631204,
+        "loops": 962,
+        "depth": -1
+    },
+    {
+        "function": "program_018_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_066__M_replace.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_015__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_006_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_062_correct_bracketing.dot",
+        "nodes": 7,
+        "edges": 7,
+        "density": 0.16666666666666666,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_015_~vector.dot",
+        "nodes": 8,
+        "edges": 10,
+        "density": 0.17857142857142858,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_021_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020__M_get_insert_unique_pos.dot",
+        "nodes": 21,
+        "edges": 30,
+        "density": 0.07142857142857142,
+        "loops": 4,
+        "depth": -1
+    },
+    {
+        "function": "program_023_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020__M_construct_node<std::pair<std::__cxx11::string_const,int>const&>.dot",
+        "nodes": 8,
+        "edges": 10,
+        "density": 0.17857142857142858,
+        "loops": 0,
+        "depth": 6
+    },
+    {
+        "function": "program_017_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_027_remove_duplicates.dot",
+        "nodes": 113,
+        "edges": 165,
+        "density": 0.013037294563843236,
+        "loops": 876,
+        "depth": -1
+    },
+    {
+        "function": "program_045_terminate.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_023_terminate.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_021_memmove.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_052_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_031__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_082_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_080_terminate.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_065_vowels_count.dot",
+        "nodes": 8,
+        "edges": 10,
+        "density": 0.17857142857142858,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_002__M_mutate.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_087_anti_shuffle.dot",
+        "nodes": 86,
+        "edges": 124,
+        "density": 0.016963064295485636,
+        "loops": 322,
+        "depth": -1
+    },
+    {
+        "function": "program_039_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_013_longest.dot",
+        "nodes": 7,
+        "edges": 9,
+        "density": 0.21428571428571427,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_018_parse_music.dot",
+        "nodes": 89,
+        "edges": 127,
+        "density": 0.01621552604698672,
+        "loops": 1335,
+        "depth": -1
+    },
+    {
+        "function": "program_019_how_many_times.dot",
+        "nodes": 19,
+        "edges": 26,
+        "density": 0.07602339181286549,
+        "loops": 36,
+        "depth": -1
+    },
+    {
+        "function": "program_027__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_085__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_066__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_018_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_009__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_081_is_happy.dot",
+        "nodes": 7,
+        "edges": 9,
+        "density": 0.21428571428571427,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_022_rescale_to_unit.dot",
+        "nodes": 9,
+        "edges": 13,
+        "density": 0.18055555555555555,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_072_pow.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_080_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_097__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_080_decimal_to_binary[abi:cxx11].dot",
+        "nodes": 62,
+        "edges": 85,
+        "density": 0.0224748810153358,
+        "loops": 40,
+        "depth": -1
+    },
+    {
+        "function": "program_052_remove_vowels.dot",
+        "nodes": 34,
+        "edges": 48,
+        "density": 0.0427807486631016,
+        "loops": 26,
+        "depth": -1
+    },
+    {
+        "function": "program_012_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_094_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_011_is_palindrome.dot",
+        "nodes": 13,
+        "edges": 18,
+        "density": 0.11538461538461539,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_028_filp_case.dot",
+        "nodes": 30,
+        "edges": 41,
+        "density": 0.047126436781609195,
+        "loops": 24,
+        "depth": -1
+    },
+    {
+        "function": "program_020_~_Auto_node.dot",
+        "nodes": 5,
+        "edges": 5,
+        "density": 0.25,
+        "loops": 0,
+        "depth": 3
+    },
+    {
+        "function": "program_088_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_023_what.dot",
+        "nodes": 1,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_023_strcmp.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_027_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_038__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_051_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_017_count_distinct_characters.dot",
+        "nodes": 30,
+        "edges": 41,
+        "density": 0.047126436781609195,
+        "loops": 13,
+        "depth": -1
+    },
+    {
+        "function": "program_088_get_row.dot",
+        "nodes": 14,
+        "edges": 20,
+        "density": 0.10989010989010989,
+        "loops": 11,
+        "depth": -1
+    },
+    {
+        "function": "program_002__M_realloc_append<std::__cxx11::string_const&>.dot",
+        "nodes": 20,
+        "edges": 26,
+        "density": 0.06842105263157895,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_097_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_070_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_087_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_010_rolling_max.dot",
+        "nodes": 21,
+        "edges": 26,
+        "density": 0.06190476190476191,
+        "loops": 5,
+        "depth": -1
+    },
+    {
+        "function": "program_030_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_016_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_087_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_030_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_023_rethrow.dot",
+        "nodes": 3,
+        "edges": 2,
+        "density": 0.3333333333333333,
+        "loops": 0,
+        "depth": 2
+    },
+    {
+        "function": "program_089_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_090_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_026_factorize.dot",
+        "nodes": 34,
+        "edges": 44,
+        "density": 0.0392156862745098,
+        "loops": 6,
+        "depth": -1
+    },
+    {
+        "function": "program_023_copy_boost_exception.dot",
+        "nodes": 18,
+        "edges": 24,
+        "density": 0.0784313725490196,
+        "loops": 0,
+        "depth": 16
+    },
+    {
+        "function": "program_008__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_025_largest_divisor.dot",
+        "nodes": 6,
+        "edges": 8,
+        "density": 0.26666666666666666,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_052_memchr.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_052_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_002_~vector.dot",
+        "nodes": 8,
+        "edges": 10,
+        "density": 0.17857142857142858,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_020__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_016_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_039__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_079_memchr.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_085_terminate.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_067_digitSum.dot",
+        "nodes": 7,
+        "edges": 9,
+        "density": 0.21428571428571427,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_082_numerical_letter_grade[abi:cxx11].dot",
+        "nodes": 133,
+        "edges": 197,
+        "density": 0.011221234905445432,
+        "loops": 0,
+        "depth": -1
+    },
+    {
+        "function": "program_035_unique.dot",
+        "nodes": 43,
+        "edges": 59,
+        "density": 0.032668881506090805,
+        "loops": 55,
+        "depth": -1
+    },
+    {
+        "function": "program_016_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_040_prime_fib.dot",
+        "nodes": 9,
+        "edges": 12,
+        "density": 0.16666666666666666,
+        "loops": 4,
+        "depth": -1
+    },
+    {
+        "function": "program_096_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_035_memmove.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_098_multiply.dot",
+        "nodes": 1,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_029__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_031_get_positive.dot",
+        "nodes": 23,
+        "edges": 29,
+        "density": 0.05731225296442688,
+        "loops": 6,
+        "depth": -1
+    },
+    {
+        "function": "program_012__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_089_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_085_solve[abi:cxx11].dot",
+        "nodes": 71,
+        "edges": 101,
+        "density": 0.020321931589537223,
+        "loops": 51,
+        "depth": -1
+    },
+    {
+        "function": "program_031_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_056_fib.dot",
+        "nodes": 4,
+        "edges": 5,
+        "density": 0.4166666666666667,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_017__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_164_closest_integer.dot",
+        "nodes": 1,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_023_throw_exception<boost::bad_any_cast>.dot",
+        "nodes": 3,
+        "edges": 2,
+        "density": 0.3333333333333333,
+        "loops": 0,
+        "depth": 2
+    },
+    {
+        "function": "program_019__M_create.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020__M_mutate.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_038_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_012_string_xor.dot",
+        "nodes": 15,
+        "edges": 22,
+        "density": 0.10476190476190476,
+        "loops": 8,
+        "depth": -1
+    },
+    {
+        "function": "program_020__M_get_insert_hint_unique_pos.dot",
+        "nodes": 43,
+        "edges": 63,
+        "density": 0.03488372093023256,
+        "loops": 3,
+        "depth": -1
+    },
+    {
+        "function": "program_164_strtod.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_164_round.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_063_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_028_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_050_modp.dot",
+        "nodes": 4,
+        "edges": 5,
+        "density": 0.4166666666666667,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_006_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_071_memmove.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_066_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_090_encrypt.dot",
+        "nodes": 27,
+        "edges": 37,
+        "density": 0.05270655270655271,
+        "loops": 12,
+        "depth": -1
+    },
+    {
+        "function": "program_023_~bad_cast.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_008_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020_operator[].dot",
+        "nodes": 17,
+        "edges": 26,
+        "density": 0.09558823529411764,
+        "loops": 4,
+        "depth": -1
+    },
+    {
+        "function": "program_066__M_create.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_051_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_011_make_palindrome.dot",
+        "nodes": 77,
+        "edges": 109,
+        "density": 0.01862611073137389,
+        "loops": 146,
+        "depth": -1
+    },
+    {
+        "function": "program_031_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_097_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_087__M_replace.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_030_bcmp.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_063__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020_terminate.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_042_car_race_collision.dot",
+        "nodes": 1,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_002__M_replace.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_012__M_mutate.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020_sort_numbers.dot",
+        "nodes": 82,
+        "edges": 117,
+        "density": 0.017615176151761516,
+        "loops": 587,
+        "depth": -1
+    },
+    {
+        "function": "program_069_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_091_memmove.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_002_separate_paren_groups.dot",
+        "nodes": 31,
+        "edges": 44,
+        "density": 0.047311827956989246,
+        "loops": 165,
+        "depth": -1
+    },
+    {
+        "function": "program_020__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_034_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_018__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_009_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_082_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_069_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_013__M_assign.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_071_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_015__M_create.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_096__Rb_tree_increment.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_036_max_element.dot",
+        "nodes": 5,
+        "edges": 5,
+        "density": 0.25,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_090__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_043_incr_list.dot",
+        "nodes": 4,
+        "edges": 5,
+        "density": 0.4166666666666667,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_072_triangle_area.dot",
+        "nodes": 5,
+        "edges": 7,
+        "density": 0.35,
+        "loops": 0,
+        "depth": 4
+    },
+    {
+        "function": "program_077_is_simple_power.dot",
+        "nodes": 5,
+        "edges": 7,
+        "density": 0.35,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_015__M_realloc_append<std::__cxx11::string_const&>.dot",
+        "nodes": 20,
+        "edges": 26,
+        "density": 0.06842105263157895,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_088_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_051_decode_shift.dot",
+        "nodes": 27,
+        "edges": 37,
+        "density": 0.05270655270655271,
+        "loops": 12,
+        "depth": -1
+    },
+    {
+        "function": "program_026__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_028_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_011_bcmp.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_052__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_074_smallest_change.dot",
+        "nodes": 4,
+        "edges": 5,
+        "density": 0.4166666666666667,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_061_sum_to_n.dot",
+        "nodes": 1,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_010__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_068_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020__M_emplace_hint_unique<std::piecewise_construct_t_const&,std::tuple<int_const&>,std::tuple<>>.dot",
+        "nodes": 12,
+        "edges": 15,
+        "density": 0.11363636363636363,
+        "loops": 0,
+        "depth": 10
+    },
+    {
+        "function": "program_033_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_006__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_030__M_create.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_033_poly.dot",
+        "nodes": 6,
+        "edges": 7,
+        "density": 0.23333333333333334,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_066_circular_shift[abi:cxx11].dot",
+        "nodes": 92,
+        "edges": 131,
+        "density": 0.015647396082178692,
+        "loops": 3,
+        "depth": -1
+    },
+    {
+        "function": "program_015_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_083_prime_length.dot",
+        "nodes": 7,
+        "edges": 9,
+        "density": 0.21428571428571427,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_010_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020__M_replace.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_087__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_011__M_create.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_080__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_080_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_015__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_055_same_chars.dot",
+        "nodes": 18,
+        "edges": 27,
+        "density": 0.08823529411764706,
+        "loops": 6,
+        "depth": -1
+    },
+    {
+        "function": "program_080_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_095_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_017_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_064_fibfib.dot",
+        "nodes": 4,
+        "edges": 5,
+        "density": 0.4166666666666667,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_018_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_015_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_051_encode_shift.dot",
+        "nodes": 27,
+        "edges": 37,
+        "density": 0.05270655270655271,
+        "loops": 12,
+        "depth": -1
+    },
+    {
+        "function": "program_020_map.dot",
+        "nodes": 21,
+        "edges": 31,
+        "density": 0.07380952380952381,
+        "loops": 40,
+        "depth": -1
+    },
+    {
+        "function": "program_069_pluck.dot",
+        "nodes": 25,
+        "edges": 36,
+        "density": 0.06,
+        "loops": 22,
+        "depth": -1
+    },
+    {
+        "function": "program_090_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_034_sort_third.dot",
+        "nodes": 56,
+        "edges": 75,
+        "density": 0.024350649350649352,
+        "loops": 15,
+        "depth": -1
+    },
+    {
+        "function": "program_039_decode_cyclic.dot",
+        "nodes": 61,
+        "edges": 87,
+        "density": 0.023770491803278688,
+        "loops": 8856,
+        "depth": -1
+    },
+    {
+        "function": "program_096_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_094_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_006_intersperse.dot",
+        "nodes": 48,
+        "edges": 64,
+        "density": 0.028368794326241134,
+        "loops": 81,
+        "depth": -1
+    },
+    {
+        "function": "program_044_pairs_sum_to_zero.dot",
+        "nodes": 10,
+        "edges": 13,
+        "density": 0.14444444444444443,
+        "loops": 3,
+        "depth": -1
+    },
+    {
+        "function": "program_035_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_052_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_088__M_realloc_append<std::vector<int,std::allocator<int>>>.dot",
+        "nodes": 8,
+        "edges": 10,
+        "density": 0.17857142857142858,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_011_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_090__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020__M_insert_range_unique<std::pair<std::__cxx11::string_const,int>const*>.dot",
+        "nodes": 22,
+        "edges": 35,
+        "density": 0.07575757575757576,
+        "loops": 54,
+        "depth": -1
+    },
+    {
+        "function": "program_033_find_zero.dot",
+        "nodes": 30,
+        "edges": 45,
+        "density": 0.05172413793103448,
+        "loops": 35,
+        "depth": -1
+    },
+    {
+        "function": "program_045__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_060_largest_prime_factor.dot",
+        "nodes": 8,
+        "edges": 11,
+        "density": 0.19642857142857142,
+        "loops": 3,
+        "depth": -1
+    },
+    {
+        "function": "program_059_memmove.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_008_~vector.dot",
+        "nodes": 8,
+        "edges": 10,
+        "density": 0.17857142857142858,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_014_greatest_common_divisor.dot",
+        "nodes": 3,
+        "edges": 3,
+        "density": 0.5,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_087__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020__Rb_tree_increment.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_008__M_realloc_append<std::__cxx11::string_const&>.dot",
+        "nodes": 20,
+        "edges": 26,
+        "density": 0.06842105263157895,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_026_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020__M_create.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_094__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_048_median.dot",
+        "nodes": 5,
+        "edges": 6,
+        "density": 0.3,
+        "loops": 0,
+        "depth": 4
+    },
+    {
+        "function": "program_009_sum_product.dot",
+        "nodes": 8,
+        "edges": 9,
+        "density": 0.16071428571428573,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_069_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_094_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_034_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_085_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_058_monotonic.dot",
+        "nodes": 5,
+        "edges": 6,
+        "density": 0.3,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_082__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_085_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_002__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_007_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_024_strlen.dot",
+        "nodes": 1,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_071_strange_sort_list.dot",
+        "nodes": 51,
+        "edges": 68,
+        "density": 0.02666666666666667,
+        "loops": 81,
+        "depth": -1
+    },
+    {
+        "function": "program_023_filter_integers.dot",
+        "nodes": 46,
+        "edges": 64,
+        "density": 0.030917874396135265,
+        "loops": 496,
+        "depth": -1
+    },
+    {
+        "function": "program_094__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_045_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_039_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_041_triples_sum_to_zero.dot",
+        "nodes": 15,
+        "edges": 20,
+        "density": 0.09523809523809523,
+        "loops": 6,
+        "depth": -1
+    },
+    {
+        "function": "program_037_fizz_buzz.dot",
+        "nodes": 10,
+        "edges": 14,
+        "density": 0.15555555555555556,
+        "loops": 4,
+        "depth": -1
+    },
+    {
+        "function": "program_051__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_095_skjkasdkd.dot",
+        "nodes": 47,
+        "edges": 68,
+        "density": 0.03145235892691952,
+        "loops": 7,
+        "depth": -1
+    },
+    {
+        "function": "program_079_hex_key.dot",
+        "nodes": 6,
+        "edges": 7,
+        "density": 0.23333333333333334,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_006_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_007_parse_nested_parens.dot",
+        "nodes": 37,
+        "edges": 51,
+        "density": 0.038288288288288286,
+        "loops": 125,
+        "depth": -1
+    },
+    {
+        "function": "program_020_memcmp.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_066__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_059_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_063_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_068_fruit_distribution.dot",
+        "nodes": 53,
+        "edges": 75,
+        "density": 0.027213352685050797,
+        "loops": 22,
+        "depth": -1
+    },
+    {
+        "function": "program_093_roundf.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_087_reserve.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_097_count_up_to.dot",
+        "nodes": 39,
+        "edges": 51,
+        "density": 0.03441295546558704,
+        "loops": 13,
+        "depth": -1
+    },
+    {
+        "function": "program_019_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_086_add.dot",
+        "nodes": 4,
+        "edges": 5,
+        "density": 0.4166666666666667,
+        "loops": 1,
+        "depth": -1
+    },
+    {
+        "function": "program_007__M_replace.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_026_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_063_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_088_~vector.dot",
+        "nodes": 8,
+        "edges": 9,
+        "density": 0.16071428571428573,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_017_tolower.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_075_total_match.dot",
+        "nodes": 7,
+        "edges": 10,
+        "density": 0.23809523809523808,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_034__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_071_operator.new.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_052__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_008_filter_by_substring.dot",
+        "nodes": 15,
+        "edges": 21,
+        "density": 0.1,
+        "loops": 8,
+        "depth": -1
+    },
+    {
+        "function": "program_095_terminate.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_021_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_096__M_create.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_008__M_create.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_080__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_066_terminate.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_035_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_028__M_append.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_010_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_002_memcpy.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_087_memmove.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_023_~clone_base.dot",
+        "nodes": 1,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_045__Unwind_Resume.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_082_~vector.dot",
+        "nodes": 8,
+        "edges": 10,
+        "density": 0.17857142857142858,
+        "loops": 2,
+        "depth": -1
+    },
+    {
+        "function": "program_090_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_020__M_construct_node<std::piecewise_construct_t_const&,std::tuple<std::__cxx11::string_const&>,std::tuple<>>.dot",
+        "nodes": 8,
+        "edges": 10,
+        "density": 0.17857142857142858,
+        "loops": 0,
+        "depth": 6
+    },
+    {
+        "function": "program_048_memmove.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    },
+    {
+        "function": "program_011_operator.delete.dot",
+        "nodes": 0,
+        "edges": 0,
+        "density": 0,
+        "loops": 0,
+        "depth": 0
+    }
+]
